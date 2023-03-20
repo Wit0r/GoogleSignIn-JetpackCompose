@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="google_description">Google Sign In</string>
+    <string name="anonymous_description">Sign In Anonymous</string>
+</resources>
