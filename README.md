@@ -60,12 +60,6 @@ Thank you for using this repository and I hope it has helped you in your project
 
 Enjoy the resources and keep creating amazing projects!
 
-# Obrigado!
-
-Muito obrigado por utilizar este repositório! Espero que ele tenha sido útil em seu projeto. Caso tenha qualquer dúvida ou feedback, por favor, não hesite em entrar em contato. 
-
-Aproveite os recursos e continue criando projetos incríveis!
-
 
 
 
